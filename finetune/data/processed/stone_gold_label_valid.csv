@@ -1,0 +1,232 @@
+,document_id,text,ner,ner_type,ner_begin,ner_end,sentiment
+0,116980,Merkur u Raku tjera vas na šetnju prošlošću i potragu za starim znancima,Merkur,MISC,0,6,Sentiment - NEUTR
+1,130418,"Skupštinari stali uz Mamića, a Dinamo u minusu 10. mil. kuna",Mamića,PER,21,27,Sentiment - NEG
+2,129057,"Gospodine Sarri, gurnite Marka Roga na Luku Modrića!",Marka Roga,PER,25,35,Sentiment - POZ
+3,85102,EC: INA bill not in compliance with EU legislation,EC,ORG,0,2,Sentiment - NEUTR
+4,92802,Je li moguće? Mlađahni Schnabel prevario Heidi Klum,Heidi Klum,PER,41,51,Sentiment - NEUTR
+5,100659,"Brodosplit: Naša ponuda sadrži garancije, u Bruxellesu smo otvorili sva vrata",Bruxellesu,LOC,44,54,Sentiment - NEUTR
+6,118910,Britanac Cam Norrie napravio čudo i sve podsjetio na Hrvata Ivana Ljubičića; i na ženskom turniru dogodilo se nešto potpuno neočekivano,Ivana Ljubičića,PER,60,75,Sentiment - POZ
+7,93688,"Slovenci u transu; klinac preskočio Petrovića i Kukoča, za srušiti ostao još jedan velikan",Slovenci,PER,0,8,Sentiment - POZ
+8,80855,"Milan zasjeo na vrh prvenstvene ljestvice nakon pobjede nad Spezijom: susret obilježio prvijenac Daniela Maldinija, sina legendarnog kapeta Rossonera",Daniela Maldinija,PER,97,114,Sentiment - POZ
+9,105753,Legenda 'bilih' progovorila o stanju na Poljudu: Dok god se Hajduk vodi na Brbićev način neću ni blizu klubu,Hajduk,ORG,60,66,Sentiment - NEG
+10,117205,Pupovac: Tesla je dovoljno velik da ga ima i za Srbe i Hrvate i Amerikance i cijeli svijet,Amerikance,PER,64,74,Sentiment - NEUTR
+11,87026,SFF djeluje iscjeljujuće na ovdašnji narod,SFF,MISC,0,3,Sentiment - POZ
+12,89117,DZS: Roterdamski efekt ne utječe na podatke o izvozu,DZS,ORG,0,3,Sentiment - NEUTR
+13,94128,Todorićeva sestra ispred Kulmerovih dvora napala novinare,Kulmerovih dvora,LOC,25,41,Sentiment - NEUTR
+14,76923,DUJMOVIĆ Već prvog dana prikupili smo dovoljno potpisa,DUJMOVIĆ,PER,0,8,Sentiment - NEUTR
+15,76973,Simpatizer Živog zida osuđen zbog prijetnji Aleksandru Stankoviću nakon neslavnog Pernarovog gostovanja u NU2,NU2,ORG,106,109,Sentiment - NEUTR
+16,135188,Škoda predstavila novi SUV Karoq - stiže u drugoj polovici godine,Karoq,MISC,27,32,Sentiment - POZ
+17,128549,Svečano otvorena treća Noć hrvatskog filma i novih medija,Noć hrvatskog filma i novih medija,MISC,23,57,Sentiment - POZ
+18,76067,Andrej Kramarić i supruga postali roditelji sina! Evo kako su ga nazvali,Andrej Kramarić,PER,0,15,Sentiment - POZ
+19,53778,"OTKRIVAMO: RASTE PRITISAK NA TODORIĆA, STIGLO MU PISMO IZ VLADE Među bankarima zbog Lex Agrokor nastala uzbuna",TODORIĆA,PER,29,37,Sentiment - NEG
+20,3981,"Srbi i dalje po svom: Šuker je trebao u Zvezdu, a Arkan pucao na Maksimiru",Srbi,PER,0,4,Sentiment - NEG
+21,71385,"OSIJEK – RIJEKA 1:2 KRAJ! Odlična utakmica u Gradskom vrtu, Rijeka se s novim trenerom vratila pobjedama i izborila polufinale Kupa!",Kupa,MISC,127,131,Sentiment - NEUTR
+22,49252,"Goal.com tvrdi: Tottenham će ovog ljeta pustiti Luku Modrića, ali ne i Balea",Tottenham,ORG,16,25,Sentiment - NEUTR
+23,100097,"Odvoz smeća u Zagrebu sigurno će poskupjeti, ali ne onoliko koliko traži Čistoća",Čistoća,ORG,73,80,Sentiment - NEG
+24,40337,Najnovija manikura Belle Hadid vratit će vas u devedesete,Belle Hadid,PER,19,30,Sentiment - POZ
+25,119439,"Markotić očekuje teško razdoblje, kaže da je Klinika Fran Mihaljević puna već dva mjeseca",Klinika Fran Mihaljević,ORG,45,68,Sentiment - NEUTR
+26,110572,Alec i Hilaria Baldwin dobili su peto dijete: 'Ne možemo biti sretniji',Alec,PER,0,4,Sentiment - POZ
+27,2772,"HRT reprizira 'Generala', a ovo su najsmješniji gafovi iz serije koja je bila predmet sprdnje",HRT,ORG,0,3,Sentiment - NEG
+28,6615,Muzej policije organizira izložbu u spomen na utemeljitelja daktiloskopije Ivana Vučetića,Muzej policije,ORG,0,14,Sentiment - NEUTR
+29,69475,"Modrić, Kovačić i društvo brzo će zaboraviti na Zidanea",Zidanea,PER,48,55,Sentiment - NEG
+30,56364,"FOTO: REPORTERKA JUTARNJEG NA NAJVEĆEM DUHOVNOM KONCERTU Katolički rock i rap, raspjevane časne i molitva: ""Otac, Sin i Duh Sveti, Arena letiii...""",Otac,PER,108,112,Sentiment - POZ
+31,56145,"EPIDEMIJA OSPICA U SARAJEVU Liječnici očajni, zbog roditelja koji ne cijepe djecu stotine zaraženih, bore se za život bebe stare samo nekoliko dana",SARAJEVU,LOC,19,27,Sentiment - NEUTR
+32,49769,"Srbija u gostima svladala Cipar, Wales bolji od Austrije, Belgija sretno do pobjede protiv Slovačke",Srbija,LOC,0,6,Sentiment - POZ
+33,87362,Objavljen prvi foršpan povijesnog spektakla 'Pompeji',Pompeji,MISC,45,52,Sentiment - POZ
+34,132374,Meghan emotivnom posvetom čestitala Harryju rođendan,Meghan,PER,0,6,Sentiment - POZ
+35,92449,"Iako je uvjeren u snagu HDZ-a, Plenkoviću se ne ide na nove izbore",Plenkoviću,PER,31,41,Sentiment - NEUTR
+36,74733,Mrdeža bez Australian Opena: Amerikanka Lepchenko uvjerljiva u drugom kolu kvalifikacija,Mrdeža,PER,0,6,Sentiment - NEG
+37,30594,"Dambrauskas uoči Vitorije: Neće biti lako, ali pokušat ćemo biti glavni na terenu",Dambrauskas,PER,0,11,Sentiment - NEUTR
+38,137492,"Producent tvrdi da je Bjelogrlić napao redatelja zbog 100.000 eura, u sve se navodno umješala i zvijezda serije 'Najbolje godine'",Najbolje godine,MISC,113,128,Sentiment - NEUTR
+39,20467,U Požeštini 25 novih ribočuvara,Požeštini,LOC,2,11,Sentiment - NEUTR
+40,22930,Je li tlo novi Prozac?,Prozac,LOC,15,21,Sentiment - NEUTR
+41,62540,"Crna Gora: smijenjen predsjednik parlamenta, izabrani novi ministri u vladi – narod.hr",Crna Gora,LOC,0,9,Sentiment - NEUTR
+42,84428,"Nakon Olića, Wiese pokušao ubiti Müllera",Müllera,PER,33,40,Sentiment - NEUTR
+43,54085,"GUMBALL 3000 SUTRA stiže u Hrvatsku, a naš suradnik Crospotter13 pratit će ludu karavanu od Zagreba do Mykonosa i donositi eksluzivne izvještaje!",Crospotter13,PER,52,64,Sentiment - POZ
+44,50155,MARIJA BUDIMIR I VIJEĆNICI HDZ-a POZVANI U USKOK NA ISPITIVANJE Utvrđuju hoće li pokrenuti istragu protiv Sabe,USKOK,ORG,43,48,Sentiment - NEUTR
+45,135773,"Plenković za Die Welt: Zagreb je dobro odgovorio na krizu, sezona će biti uspješna",Zagreb,LOC,23,29,Sentiment - POZ
+46,28574,"FOTO | Srbija oduševila na Eurosongu i ušla u finale, prošli i Slovenci",Srbija,LOC,7,13,Sentiment - POZ
+47,115375,"Instagram bi uskoro mogao dobiti još reklama, ovaj put u Reelsima",Reelsima,MISC,57,65,Sentiment - NEUTR
+48,114958,HAZU: Meštrovićev spomenik Indijancima u Chicagu promatrati u umjetničkom rukopisu i stilu,Chicagu,LOC,41,48,Sentiment - NEUTR
+49,113960,"Povjerenstvo pokrenulo postupak protiv Petrova, Žigmana i Varge",Petrova,PER,39,46,Sentiment - NEG
+50,122271,Preokret Engleza na Wembleyju; sljedeći suparnik Hrvatske izgubio od Katara; Bjelorusija bez milosti prema Indiji i Igoru Štimcu,Katara,ORG,69,75,Sentiment - NEUTR
+51,39388,Demokrati imaju većinu u Zastupničkom domu. Što to točno znači za Trumpa?,Trumpa,PER,66,72,Sentiment - NEUTR
+52,9744,Benčić oštro po Plenkoviću: Laže da je Nacionalni plan oporavka i otpornosti gotov...,Nacionalni plan oporavka i otpornosti,MISC,39,76,Sentiment - NEUTR
+53,89647,Boban u vrhu Fife: Odmah do predsjednika Infantina?,Infantina,PER,41,50,Sentiment - NEUTR
+54,69958,'Naš zastupnik nije zaključao vrata sobe u kojoj je bio s Brkićem',Brkićem,PER,58,65,Sentiment - NEG
+55,1989,ATP Stuttgart: Švicarac Wawrinka izbacio Čilića,ATP Stuttgart,MISC,0,13,Sentiment - NEUTR
+56,94119,"Pametno o slučaju Agrokor: Što su sve ove godine radili HNB, Hanfa, HBOR, porezna uprava?",HNB,ORG,56,59,Sentiment - NEG
+57,42366,Nijemci potvrdili: Navalni je otrovan vojnim nervnim otrovom,Nijemci,PER,0,7,Sentiment - NEUTR
+58,4764,Thompsonova poruka za proslavu oslobođenja u Kninu i Čavoglavama,Kninu,LOC,45,50,Sentiment - NEUTR
+59,9254,"Zenit ispustio prvo mjesto na ljestvici; iznenađenje i u Moskvi, poraz Ćorlukinog Lokomotiva",Moskvi,LOC,57,63,Sentiment - NEUTR
+60,74391,"VIDEO Horor u Lici: policija pucala na krijumčara, jedno dijete ranjeno je u glavu, reagirao i premijer",Lici,LOC,14,18,Sentiment - NEUTR
+61,53452,"'NE MOGU STALNO BITI U SABORU' Petrov nakon mise u Katedrali progovorio o ustavnim sucima, odnosima HDZ-a i Mosta, Pernaru koji jede pizzu u Saboru...",HDZ,ORG,100,103,Sentiment - NEUTR
+62,105766,"Samo prijatelji ili nešto više: Jennifer Aniston uskočila u bikini, no pažnju je privukao muškarac u njezinom društvu",Jennifer Aniston,PER,32,48,Sentiment - POZ
+63,126548,"‘Učim njemački jezik, jer posao u struci u Hrvatskoj neću nikada naći’",Hrvatskoj,LOC,43,52,Sentiment - NEG
+64,135682,Capak: Ako se Papa i hrvatski biskupi drže mjera onda mogu i dalmatinski svećenici,Papa,PER,14,18,Sentiment - POZ
+65,67095,Microsoft planira novi Office software,Office,MISC,23,29,Sentiment - NEUTR
+66,70526,Bivši agent KGB-a razotkriva razmišljanje Vladimira Putina: 'Priprema si teren za propast. Stigao...,Vladimira Putina,PER,42,58,Sentiment - NEG
+67,80587,"Što znamo o ‘virusu‘ koji nagriza Škorin Domovinski pokret: Tko je zbog najnovijeg raskola odahnuo na desnici, a evo i tko mašta o sličnom scenariju na ljevici...",Domovinski pokret,ORG,41,58,Sentiment - NEG
+68,106880,"Beroš: Osim bolesnika u Varaždinu, nema drugih upozoravajućih elemenata",Varaždinu,LOC,24,33,Sentiment - NEUTR
+69,82125,Po četvrti put nogometašice Donata izgubile susret od Međimurja!,Donata,ORG,28,34,Sentiment - NEG
+70,31184,zagreb - koncert simfonijskog orkestra petrogradske filharmonije,zagreb,LOC,0,6,Sentiment - NEUTR
+71,100923,Petek: Fake akcija s biootpadom u Zagrebu,Zagrebu,LOC,34,41,Sentiment - NEUTR
+72,30152,"Bayern uvjerljiv u Rimu, Chelsea svladao Atletico prelijepim golom Girouda",Bayern,ORG,0,6,Sentiment - POZ
+73,106303,Kurz putuje u Berlin na sastanak s Merkel,Merkel,PER,35,41,Sentiment - NEUTR
+74,84699,Sandro Sukno odlazi u Pro Recco,Sandro Sukno,PER,0,12,Sentiment - NEUTR
+75,91782,Spašavanje Ružice Vukovac: Je li na pomolu novi rat HDZ-a i Mosta?,HDZ-a,ORG,52,57,Sentiment - NEG
+76,100462,Tarabom i Ruvom Đakovčani planiraju osvojiti Amerikance,Ruvom,PER,10,15,Sentiment - POZ
+77,20053,Promocija Monografije o živoj lomači u Pionirskoj ulici u Višegradu,Višegradu,LOC,58,67,Sentiment - NEUTR
+78,125437,"Grnja se povukao, hoće li Cukrov opet uz aut-liniju?",Grnja,PER,0,5,Sentiment - NEUTR
+79,73401,"Clinton 'izgurala' Sandersa, Trump teško porazio Marca Rubija koji je odustao od kandidature",Clinton,PER,0,7,Sentiment - POZ
+80,1470,Iz Zadra ga izbacili jer je širio laži o svećenicima,Zadra,LOC,3,8,Sentiment - NEUTR
+81,93156,Thompson za Oluju košta Slunj tri puta više nego Prljavci Knin,Thompson,PER,0,8,Sentiment - NEG
+82,75086,Još tjedan dana do najboljeg i najpovoljnijeg festivala u Europi - INmusica,INmusica,MISC,67,75,Sentiment - POZ
+83,118505,"Pep Guardiola na mukama; pitali su ga kako misli zaustaviti Messija, Neymara i Mbappea, a njegov je iskreni odgovor šokirao sve",Neymara,PER,69,76,Sentiment - POZ
+84,47254,Najbogatijeg Ukrajinca država natjerala da joj preda svoje medijsko carstvo,Ukrajinca,PER,13,22,Sentiment - NEUTR
+85,56931,"DVA NAJBOLJA HRVATA U NBA LIGI JOŠ UVIJEK NISU NA RADNOJ TEMPERATURI Bogdanović u porazu ubacio osam poena, Šarić nije ni ulazio u igru",Bogdanović,PER,69,79,Sentiment - NEG
+86,115531,"Brazil premašio 400 tisuća umrlih od covida-19, epidemiolozi zabrinuti zbog otvaranja",Brazil,LOC,0,6,Sentiment - NEG
+87,9338,Jedan od najpopularnijih modnih brendova zatvara svoje poslovnice u Srbiji,Srbiji,LOC,68,74,Sentiment - NEUTR
+88,110635,Bakić izračunao koliko koštaju besplatni obroci za 310 tisuća osnovnoškolaca: Treba osigurati oko 800 milijuna kuna,Bakić,PER,0,5,Sentiment - NEUTR
+89,100655,Dinamo ovim videom želi zahvaliti svima koji su bodrili 'modre' protiv Viktorije,Viktorije,ORG,71,80,Sentiment - NEUTR
+90,73844,Tillerson: 'Djelovanje Moskve na istoku Ukrajine prepreka za poboljšanje odnosa SAD-a i Rusije',Moskve,LOC,23,29,Sentiment - NEG
+91,93361,Slavna glumica priznala: 'Tom Cruise je vražja osoba',Tom Cruise,PER,26,36,Sentiment - NEG
+92,77013,Rasprava na HRT-u; Redžić: Ili su krivi i Mamić i Modrić ili nije nitko kriv; Lalić: Trebalo bi pozvati psihologa,Redžić,PER,19,25,Sentiment - NEUTR
+93,110368,"Izraelci potjerali igrača i delegaciju Željezničara iz zemlje zbog koronavirusa, a UEFA naredila ponovno odigravanje utakmice i to na istom mjestu",Izraelci,PER,0,8,Sentiment - NEG
+94,55383,VIDEO: EMOTIVNO BRADARIĆEVO OBRAĆANJE 'Znamo što se događa... Thompsonu su baš na refrenu ugasili mikrofon! Ali vratit ćemo reprezentaciju i u Split',Split,LOC,143,148,Sentiment - POZ
+95,29457,Hanžek o promidžbi: I kišobrani su hrvatski,Hanžek,PER,0,6,Sentiment - NEUTR
+96,57292,"FOTO: MILANOVIĆ SVJEDOČIO NA SUĐENJU SAUCHI 'Bio sam šokiran i bijesan kad sam doznao za lažirana putovanja. Ali, za mene je jedan detalj važan...'",SAUCHI,PER,37,43,Sentiment - NEG
+97,67256,Gjutorak Heart & Art u klubu Gjuro 2,Gjuro 2,ORG,29,36,Sentiment - NEUTR
+98,62950,"Verbum predstavio knjigu ""Mali biseri crkvenih otaca"" kardinala Tomaša Špidlika – narod.hr",Mali biseri crkvenih otaca,MISC,26,52,Sentiment - NEUTR
+99,35713,Lindsay Lohan nikako da svlada Photoshop: Pogledajte čime se ovog puta osramotila,Photoshop,MISC,31,40,Sentiment - NEUTR
+100,44376,"Ecija Ojdanić pozirala bez trunke šminke, ljudi joj pišu: Tako izgledaš puno mlađe",Ecija Ojdanić,PER,0,13,Sentiment - POZ
+101,39558,Bivša supruga Borisa Beckera staru godinu ispraća u toplesu,Borisa Beckera,PER,14,28,Sentiment - NEUTR
+102,13715,"Poplava u Poljskoj za neke je zabava, za druge katastrofa",Poljskoj,LOC,10,18,Sentiment - NEUTR
+103,43264,Profesor iz Pule u Otvorenom: Ovaj opoziv Trumpa apsolutno ne pomaže pomirbi,Otvorenom,ORG,19,28,Sentiment - NEUTR
+104,138779,"Milanović: HDZ je talac Plenkovića, on pikira na dva posla u Bruxellesu. Banožić? Treba mu oduzeti poslovnu sposobnost ili ga utamničiti",Milanović,PER,0,9,Sentiment - NEUTR
+105,72880,"Nemir i ozljede stopera okupirale Modre uoči večerašnjeg gostovanja kod Slaven Belupa, ali Čačić tvrdi: ""Nijedna ekipa nema imperativ"" - Novi list",Slaven Belupa,ORG,72,85,Sentiment - NEUTR
+106,70557,Provjerite listiće: Hrvat na Eurojackpotu osvojio gotovo 2 milijuna kn. Otkriveno i gdje je broj...,Eurojackpotu,MISC,29,41,Sentiment - POZ
+107,115284,Damir Kedžo se oprostio od voljene osobe: 'Učila me da zavist i ljubomora nikad ne bi smjeli biti u mom srcu',Damir Kedžo,PER,0,11,Sentiment - POZ
+108,112735,'Hrvatska je izgubila milijune eura iz EU fondova',Hrvatska,LOC,1,9,Sentiment - NEG
+109,124809,Kosor o novom predsjedniku uprave HEP-a: Begović je dobro nadzirao,Kosor,PER,0,5,Sentiment - NEUTR
+110,56389,"ZAKUHALA SE BITKA ZA EUROPU! KONAČNA ODLUKA PADA U POSLJEDNJEM KOLU Gorica svladala Osijek, ali u posljednjih 90 minuta prvenstva treba im senzacija",EUROPU,LOC,21,27,Sentiment - POZ
+111,74510,Bitka za imovinu Belupove menadžerice: Rodbina ne da milijune sinu Branimira Glavaša,Branimira Glavaša,PER,67,84,Sentiment - NEG
+112,65541,Zašto je Dinamo igrao povučeno na Etihadu? Jedan čovjek dao je pravi odgovor! – narod.hr,Etihadu,LOC,34,41,Sentiment - NEUTR
+113,103012,Njemačka ima previše bolnica,Njemačka,LOC,0,8,Sentiment - NEG
+114,5331,Vučić zabrinut: razgovor Beograda i Prištine u Bruxellesu propao?,Vučić,PER,0,5,Sentiment - NEUTR
+115,120271,"Kristijan Buk novi je predsjednik Savjeta Hanfe, Vanđeliću istekao mandat",Savjeta Hanfe,ORG,34,47,Sentiment - NEUTR
+116,34678,"Remi na San Siru u reprizi polufinala Eura, Alexis Sanchez srušio Englesku",Eura,MISC,38,42,Sentiment - NEUTR
+117,71241,Advent u “Zajcu” uz jedinstvene izvedbe baleta “Orašar”,Zajcu,ORG,10,15,Sentiment - POZ
+118,71434,Fani Solomun singlom “Sama” najavljuje svoj prvi album,Sama,MISC,22,26,Sentiment - NEUTR
+119,96277,Opet debakl: Mbappe i Pogba pokazali Rusima što ih čeka na SP-u!,SP-u,MISC,59,63,Sentiment - NEUTR
+120,91230,Posrnuli HPB-ovci privedeni u sjedište USKOK-a,HPB,ORG,9,12,Sentiment - NEG
+121,90551,HDZ-ov džoker za jug kreće u utrku pod sloganom 'Split je glavni',HDZ,ORG,0,3,Sentiment - NEUTR
+122,53917,VIDEO: Kultni Orchestra Baobab sa svojim veselim i egzotičnim melodijama južnog Senegala stiže na OTP World Music Stage,OTP World Music Stage,ORG,98,119,Sentiment - POZ
+123,57016,Neujednačen opus Petra Dolića u Galeriji Račić,Galeriji Račić,ORG,32,46,Sentiment - NEUTR
+124,64044,Nikola Grmoja za Narod.hr o željama SNV-a: 'Cilj ovakvih inicijativa je isključivo stvaranje konflikta i iritiranje javnosti' – narod.hr,SNV-,ORG,36,40,Sentiment - NEG
+125,105869,Škoro odgovorio na prozivke da je na vlast doveo Zorana Milanovića,Zorana Milanovića,PER,49,66,Sentiment - NEG
+126,107803,Plenković potvrdio: Vlada će u četvrtak napraviti prvi korak prema relaksaciji mjera,Vlada,ORG,20,25,Sentiment - POZ
+127,113931,Kardinal Bozanić čestitao novoizabranom patrijarhu SPC Porfiriju,SPC,ORG,51,54,Sentiment - NEUTR
+128,53768,LEX AGROKOR: PRVI DONOSIMO SVE DETALJE NOVOG ZAKONA Interventnim propisom omogućit će se uvođenje Vladine prisilne uprave,Vladine,ORG,98,105,Sentiment - NEG
+129,7346,"Bošnjaković: Ovrhe bi trebale biti brže, ali i pravednije",Bošnjaković,PER,0,11,Sentiment - NEUTR
+130,136529,"Borzan o incidentu na granici: 'Bit će rasprave, sad će se Hrvatska opet prozivati'",Hrvatska,LOC,59,67,Sentiment - NEG
+131,119643,Ranko Ostojić dao ostavku na mjesto predsjednika županijskog SDP- a: 'S gnušanjem odbijam sudjelovati u daljnjem procesu',SDP,ORG,61,64,Sentiment - NEG
+132,52008,VIDEO: AGUERO SPASIO ARGENTINU Messi i društvo jedva slomili Urugvajce,Messi,PER,31,36,Sentiment - POZ
+133,96256,Mozak hakerske bande koja je ukrala milijardu eura uhićen u Španjolskoj,Španjolskoj,LOC,60,71,Sentiment - NEUTR
+134,85875,Od iduće sezone naplata ulaza na Rastoke,Rastoke,LOC,33,40,Sentiment - NEUTR
+135,43331,U Zagrebačkoj županiji 56 novih slučajeva,Zagrebačkoj županiji,LOC,2,22,Sentiment - NEUTR
+136,42422,"Dijeli se objava hrvatske glumice o Zagrebu: Doseliš se, ne voliš ga i siluješ",Zagrebu,LOC,36,43,Sentiment - NEG
+137,27368,Rakitić donio pobjedu Barceloni,Barceloni,ORG,22,31,Sentiment - POZ
+138,15418,Annan: Ljudi u Darfuru više ne mogu čekati,Darfuru,LOC,15,22,Sentiment - NEUTR
+139,3700,Postoji li sličnost u nastupu premijera Milanovića i monstruma Breivika?,Breivika,PER,63,71,Sentiment - NEG
+140,77080,Vitaić umjesto Marenzija na klupi Zmaja,Marenzija,PER,15,24,Sentiment - NEUTR
+141,26384,Dalić i Lovren proglašeni počasnim građanima Novalje - N1,Dalić,PER,0,5,Sentiment - POZ
+142,23698,U Kutjevu derbi neporaženih,Kutjevu,LOC,2,9,Sentiment - NEUTR
+143,113288,Švedska nakon velike drame ostala u igri za četvrtfinale; Bjelorusija vodila s čak osam razlike pa sve prokockala i uzela tek bod,Švedska,LOC,0,7,Sentiment - POZ
+144,9830,HVALA! Mađari grade novu školu u Petrinji i novu crkvu u Žažini,Mađari,PER,7,13,Sentiment - POZ
+145,63783,U BiH uhićene tri osobe pod sumnjom krijumčarenja ilegalnih migranata – narod.hr,BiH,LOC,2,5,Sentiment - NEUTR
+146,129129,Procurio detalj sa sastanka: Kako je Trump šokirao Merkel,Merkel,PER,51,57,Sentiment - NEUTR
+147,110519,Masovna uhićenja na prosvjedima protiv Lukašenka u Minsku,Lukašenka,PER,39,48,Sentiment - NEG
+148,118181,Suđenje za Kosovo: Mustafa se izjasnio da nije kriv,Kosovo,LOC,11,17,Sentiment - NEUTR
+149,127662,Živi zid izbacio Slađu iz stranke. Pernar: Ona samo želi medijski prostor,Slađu,PER,17,22,Sentiment - NEG
+150,36071,"Vince iz ""Entouragea"" razljutio Amerikance objavom na Instagramu",Entouragea,MISC,10,20,Sentiment - NEUTR
+151,3000,Sonja Kovač pokazala svoj novi raskošni vrt: 'To je investicija!',Sonja Kovač,PER,0,11,Sentiment - POZ
+152,79007,Vučić kaže da Beograd neće pristati na ultimatume Kosova,Vučić,PER,0,5,Sentiment - NEUTR
+153,53215,HAJDUK IDE NA AFRO-POGON Trebaju li Said i Ohandza igrati zajedno protiv Dinama u Maksimiru?,Said,PER,36,40,Sentiment - NEUTR
+154,117180,"Filipine pogodio potres jakosti od čak 6,7 stupnjeva po Richteru",Filipine,LOC,0,8,Sentiment - NEUTR
+155,12308,Tko je Dinamov protivnik na putu za Ligu prvaka? Bjelica najjači adut!,Ligu prvaka,MISC,36,47,Sentiment - NEUTR
+156,16247,Projekt HDZ-a u opasnosti: Hoće li Rijeka podržati Hajduk i pokrenuti demontažu Dinamove svemoći?,Rijeka,ORG,35,41,Sentiment - NEUTR
+157,93662,Milan sve karte baca na Kalinića: Samo trojica boljih u Europi!,Europi,LOC,56,62,Sentiment - NEUTR
+158,103159,Plenković: Odgovorni za požar kod Šibenika trebaju biti privedeni pravdi,Šibenika,LOC,34,42,Sentiment - NEUTR
+159,84827,Dioki traži zaštitu Vlade od 'nerazumnih poteza' Ine,Vlade,ORG,20,25,Sentiment - NEUTR
+160,1865,Evo zašto sveti Nikola donosi darove i to baš u dječje čizmice,sveti Nikola,PER,10,22,Sentiment - POZ
+161,128944,Aramis Naglić novi trener Zadra,Aramis Naglić,PER,0,13,Sentiment - NEUTR
+162,118348,[VIDEO/FOTO] Dinamo uvjerljiv protiv Orijenta; 'modri' su na Krimeji zabili četiri gola za miran plasman u osminu finala Kupa,Orijenta,ORG,37,45,Sentiment - NEUTR
+163,39636,"Hrvatska je ostala bez polufinala SP-a, ali joj prijeti i nešto puno gore",SP-a,MISC,34,38,Sentiment - NEUTR
+164,111758,Tražite nešto što će vas nakratko opustiti? Utrku pikula isplati se pogledati!,Utrku pikula,MISC,44,56,Sentiment - POZ
+165,131968,Novi incident: Milijana vrištala i udarala razodjevenog Milojka!,Milojka,PER,56,63,Sentiment - NEG
+166,113859,Proglašena prirodna nepogoda uzrokovana potresom i za Dugu Resu,Dugu Resu,LOC,54,63,Sentiment - NEUTR
+167,59667,"(VIDEO) Delija dva i pol kilograma lakši od Goltsova, odrađeno sučeljavanje pred veliku borbu",Goltsova,PER,44,52,Sentiment - NEUTR
+168,95108,Verne Troyer nabavio 'mini' Teslu,Verne Troyer,PER,0,12,Sentiment - NEUTR
+169,68607,Sporazum je predaja Kosova i Metohije,Metohije,LOC,29,37,Sentiment - NEUTR
+170,102943,Hezbolah smanjio vojnu nazočnost u Siriji,Hezbolah,ORG,0,8,Sentiment - NEUTR
+171,43468,Što se događa s Vrsaljkom? Atletico odbio reći zašto Hrvat ne trenira s prvom ekipom,Atletico,ORG,27,35,Sentiment - NEG
+172,10893,Kći Miše Kovača otkrila hoće li legenda hrvatske glazbe nastupiti na Poljudu,Miše Kovača,PER,4,15,Sentiment - POZ
+173,55631,Prva reakcija Komisije na izbore u BiH: 'Očekujemo brzo formiranje Doma naroda!',Doma naroda,ORG,67,78,Sentiment - POZ
+174,27482,Stotine okupljenih obilježava godišnjicu prosvjeda u Hong Kongu - N1,Hong Kongu,LOC,53,63,Sentiment - NEUTR
+175,86348,Za Victoriju Beckham Đoković je nepoznati Rus,Rus,PER,42,45,Sentiment - NEG
+176,40650,"Inženjerka iz Beograda konobarila u Šibeniku: ""Zaljubila sam se u Dalmaciju""",Šibeniku,LOC,36,44,Sentiment - POZ
+177,45162,Pariz će posaditi 170.000 stabala kako bi poboljšao klimu u gradu,Pariz,LOC,0,5,Sentiment - POZ
+178,132177,"Maja Tedeschi: Bandić mora skrbiti o gradu, a ne graditi novi grad bez javne rasprave",Bandić,PER,15,21,Sentiment - NEG
+179,124742,Sisak: Ministarstva ipak ignoriraju djecu!,Sisak,LOC,0,5,Sentiment - NEUTR
+180,43051,Bivši djelatnik Pfizera širi priče o cjepivu i neplodnosti. Štagljar: To je laž,Pfizera,ORG,16,23,Sentiment - NEG
+181,125445,Sud za ratne zločine u Beogradu istražuje ubojstva Hrvata u Tenji,Sud za ratne zločine u Beogradu,ORG,0,31,Sentiment - NEUTR
+182,85158,Srđan Andrić promovirao MAXtv Prvu ligu,MAXtv Prvu ligu,MISC,24,39,Sentiment - POZ
+183,24704,Skijaški skokovi Lillehammer: Gregor Schlierenzauer pobijedio je na natjecanju Svjetskog kupa,Svjetskog kupa,MISC,79,93,Sentiment - NEUTR
+184,67265,Antonio i Jelena slasno pojeli kobasicu za pse,Jelena,PER,10,16,Sentiment - NEUTR
+185,91561,Europska komisija neće pokrenuti korektivne mjere protiv Hrvatske,Hrvatske,LOC,57,65,Sentiment - NEUTR
+186,99370,Tolušić: Očekujemo pomoć Europske komisije hrvatskim šećeranama,Tolušić,PER,0,7,Sentiment - NEUTR
+187,91939,[VIDEO] Sramota Intera pokazala je svima da Brozović ni za što nije kriv!,Intera,ORG,16,22,Sentiment - NEG
+188,49916,Jurčić probudio špice: Beqiraj i Krstanović zabili u zadnje dvije utakmice pet pogodaka,Jurčić,PER,0,6,Sentiment - POZ
+189,117564,"[VIDEO/FOTO] Nadbiskup Hranić u Aljmašu: Nevolja Marije u porođajnim bolovima ujedno je i slika Crkve, koju često izruguju u medijima",Marije,PER,49,55,Sentiment - POZ
+190,37272,Urednik lokalnih novina dao ostavku zbog pritiska SDP-ovaca,SDP,ORG,50,53,Sentiment - NEG
+191,5816,Posebna regulacija prometa na raskrižju Jurišićeve i Palmotićeve,Palmotićeve,LOC,53,64,Sentiment - NEUTR
+192,25010,Prevaranti koriste smrt Tomislava Salopeka i izvlače novac,Tomislava Salopeka,PER,24,42,Sentiment - NEUTR
+193,136141,Radmanu orden francuskog Reda Legije časti,Reda Legije časti,MISC,25,42,Sentiment - POZ
+194,98310,Badelj nakon Portugala progovorio o atmosferi u hrvatskoj svlačionici,Badelj,PER,0,6,Sentiment - NEUTR
+195,58753,Nova afera s obnovom kuća u Slavoniji: Glavni inženjeri bili su - maloljetnici?!,Slavoniji,LOC,28,37,Sentiment - NEUTR
+196,36498,"Kolinda u pogon pustila superračunalo ""Bura"" vrijedno 44,7 milijuna kuna",Bura,MISC,39,43,Sentiment - POZ
+197,136251,Neredi u Berlinu: Policija zaustavila nasilan prosvjed vodenim topovima,Berlinu,LOC,9,16,Sentiment - NEUTR
+198,4760,Trump: bio sam sarkastičan vezano za poziv Rusiji glede mailova Clinton,Rusiji,LOC,43,49,Sentiment - NEG
+199,51860,'Babo' spasio Netse: Igrač od 3 milijuna dolara u playoff uveo najskuplju momčad lige,Babo,PER,1,5,Sentiment - POZ
+200,118733,"Skandal na košarkaškom derbiju Zadra i Cibone: Tornado poslao uvredljivu poruku hrvatskom reprezentativcu i napustio dvoranu, razlog je bizaran",Cibone,ORG,39,45,Sentiment - NEUTR
+201,136242,Kalkulacije: Evo što Hrvatska mora napraviti da ostane u elitnoj skupini Lige nacija,Lige nacija,MISC,73,84,Sentiment - NEUTR
+202,44791,Evo kako će se City odužiti Kompanyju i Silvi za njihov doprinos uspjesima kluba,City,ORG,15,19,Sentiment - POZ
+203,30137,U Austriji zbog južnoafričkog soja uvedena kontrola izlaska iz Tirola,Austriji,LOC,2,10,Sentiment - NEUTR
+204,78221,"Kaos u Rumunjskoj, sudac pogođen petardom: nemisle scene obišle su cijeli nogometne svijet",Rumunjskoj,LOC,7,17,Sentiment - NEG
+205,80643,"Kao da i bez toga nismo imali gužvu od Solina do Splita i obrnuto: u jednom smjeru pokvarila se cisterna, a u drugom sudar motociklista i vozila",Solina,LOC,39,45,Sentiment - NEUTR
+206,98462,Jennifer Lopez izbacila obline u prvi plan i bacila obožavatelje u trans,Jennifer Lopez,PER,0,14,Sentiment - POZ
+207,621,"Everton želi Tudora, Hajduk i West Ham pokrenuli suradnju",Everton,ORG,0,7,Sentiment - NEUTR
+208,23774,"Slatini odobreno 9,7 milijuna kuna",Slatini,LOC,0,7,Sentiment - POZ
+209,16808,Tragičar Reala preuzeo krivnju na sebe i pokušao objasniti svoje katastrofalne pogreške,Reala,ORG,9,14,Sentiment - NEG
+210,136010,Snježana Dujmić najavila nastavak spora s Novim Fosilima: 'Rajko je imao plan za novac',Rajko,PER,59,64,Sentiment - NEG
+211,65602,"(FOTO) Predstavnici sindikata s Vladom potpisali Temeljni kolektivni ugovor, no bez Stipića koji im poručuje: 'Uvijek treba pitati članove' – narod.hr",Stipića,PER,84,91,Sentiment - NEUTR
+212,73518,WADA optužila rusku vladu za dopingiranje svojih sportaša: prijeti im izbacivanje s Olimpijskih igara!,Olimpijskih igara,MISC,84,101,Sentiment - NEUTR
+213,87691,Očaj u srpskim medijima: Zagreb 'pokorio' Beograd!,Beograd,LOC,42,49,Sentiment - NEG
+214,97117,Nove kopačke Vedrana Ćorluke kriju ljubavnu posvetu,Vedrana Ćorluke,PER,13,28,Sentiment - POZ
+215,129195,"Washington poveo protiv Atlante, Bogdanović ubacio četiri koša",Bogdanović,PER,33,43,Sentiment - POZ
+216,129152,"Antolić skroz otvoreno: Pivarić najbolje pjeva, a bilo je situacija u kojima sam morao smirivati igrače u svlačionici",Antolić,PER,0,7,Sentiment - POZ
+217,88529,"Cipras: Dosta je priča o lijenim Grcima, žrtvama 'nacističkih' Nijemaca",Cipras,PER,0,6,Sentiment - NEUTR
+218,41341,"Preslatku frizuru Maje Šuput je lako kopirati, a ekspresno popravlja dane u izolaciji",Maje Šuput,PER,18,28,Sentiment - POZ
+219,125023,Zbog heroina srbijanska policija na granici uhitila i Šibenčanina,Šibenčanina,PER,54,65,Sentiment - NEG
+220,95004,Ljutiti Simeone spustio svima koji misle da je El Clasico utakmica godine!,Simeone,PER,8,15,Sentiment - NEG
+221,135011,Mijat Stanić: Nećemo odustati od referenduma,Mijat Stanić,PER,0,12,Sentiment - NEUTR
+222,134313,Ovako se Sjeverna Koreja priprema za rat sa SAD-om,Sjeverna Koreja,LOC,9,24,Sentiment - NEG
+223,41332,Anita Dujić: Upravo nam je murija pokucala na vrata...,Anita Dujić,PER,0,11,Sentiment - NEUTR
+224,101442,"Promjene u Upravi Allianza Zagreb, Daniel Matić novi šef",Allianza Zagreb,ORG,18,33,Sentiment - NEUTR
+225,52052,STRAVIČNO ISKUSTVO NA TRSTENIKU ‘Stafordski terijer razjapljenih čeljusti napao me nasred mora’,TRSTENIKU,LOC,22,31,Sentiment - NEUTR
+226,90839,Iva Balaban i Martina Štritof: Veliko slavlje za kćeri,Martina Štritof,PER,14,29,Sentiment - NEUTR
+227,8875,"Hrvatu u Nigeriji dijagnosticiran Covid-19, u Hrvatsku se vraća unajmljenim zrakoplovom",Hrvatsku,LOC,46,54,Sentiment - NEUTR
+228,54111,"FOTO: NIJE MORSKA, NEGO ŠUMSKA VILA Zgodna Nives Celzijus ni po najvećem toplinskom udaru ne odustaje od vježbanja",Nives Celzijus,PER,43,57,Sentiment - POZ
+229,30010,Klopp nakon poraza od Southamptona napao suce,Klopp,PER,0,5,Sentiment - NEG
+230,14981,Merkur osiguranje i sportska akademija Mali sportaši razveselili djecu ljetnim kampom „S Merkurom pronađi svoj talent“,S Merkurom pronađi svoj talent,MISC,87,117,Sentiment - POZ
